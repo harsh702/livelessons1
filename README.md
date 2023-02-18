@@ -1,0 +1,2 @@
+- `git init` : initialize the current folder to Git Repository.
+- `git clone <URL>` : brings in the remote Git repo from <URL> the current folder.
