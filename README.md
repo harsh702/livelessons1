@@ -6,3 +6,4 @@
        `git commit -m <commit_msg> <file_name>`: commit the staged file with commit message.
 - `git log`: to view at the history of the repository.
       `git log --oneline`: to view short history in one line.
+- `git diff HEAD~<commit#hash>`: to view the difference between two commits.
