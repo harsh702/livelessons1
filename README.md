@@ -4,3 +4,5 @@
 - `git add <file_name>`: adds file to the staging area
 - `git commit <file_name>`: commit the staged file.
        `git commit -m <commit_msg> <file_name>`: commit the staged file with commit message.
+- `git log`: to view at the history of the repository.
+      `git log --oneline`: to view short history in one line.
