@@ -1,4 +1,4 @@
-# GIT BASICS
+# GIT BASICS - detials for loacl repo
 - `git init` : initialize the current folder to Git Repository.
 - `git clone <URL>` : brings in the remote Git repo from <URL> the current folder.
 - `git status`: tells us the state of the repository
@@ -17,4 +17,5 @@
         - `<where>`: is the remote.
 		-`<what>`: the local branch name.
 - Adding Commit 1
-- Adding Commit 2
+- Adding Remote Commit 2
+
