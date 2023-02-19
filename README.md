@@ -17,3 +17,4 @@
         - `<where>`: is the remote.
 		-`<what>`: the local branch name.
 - Adding Commit 1
+- Adding Commit 2
