@@ -9,3 +9,4 @@
 - `git diff HEAD~<commit#hash>`: to view the difference between two commits.
 - `git commit --amend`: to amend the previous commit (It just replaces the previous commit with new commit with changes)
       - if no changes are made, then the commit message is changed
+- `git restore`: to restore or undo changes.
