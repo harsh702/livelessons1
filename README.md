@@ -16,6 +16,5 @@
 - `git push <where> <what>`: to sync local changes to remote.
         - `<where>`: is the remote.
 		-`<what>`: the local branch name.
-- Adding Commit 1
-- Adding Remote Commit 2
+# Git Branches
 
